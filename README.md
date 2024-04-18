@@ -18,7 +18,7 @@
 <br>
 <div align="center" >
    
-[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemsantoss&show_icons=true&theme=dracula )](https://github.com/ViniciusAlmeid4)
+[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemsantoss&show_icons=true&theme=dracula )](https://github.com/felipemsantoss)
 
 # Atualmente estou estudando e criando projetos com:
 
