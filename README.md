@@ -1,15 +1,15 @@
-### Oi, meu nome é Felipe Santos 
+# Oi, meu nome é Felipe Santos!
 
-
-📚 Estudando Engenharia de Software
- ##
-
-[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemsantoss&show_icons=true&theme=merko )](https://github.com/ViniciusAlmeid4)
- ##
+ - 📚 Estudante de Engenharia de Software
+ - 💻 Estudando SQL , NoSQL , Python , Microsoft Power BI
 
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ ##
+ 
+[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemsantoss&show_icons=true&theme=dracula )](https://github.com/ViniciusAlmeid4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsantoss&layout=compact&theme=dracula )](https://github.com/ViniciusAlmeid4)
+
+
 
   ##
   
