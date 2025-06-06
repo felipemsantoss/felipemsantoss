@@ -27,6 +27,9 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Install ImageMagick
+        run: sudo apt-get install -y imagemagick
+
       - name: Add black background to gif
         run: |
           convert dist/github-contribution-grid-snake.gif -background black -flatten dist/github-contribution-grid-snake-with-black-bg.gif
