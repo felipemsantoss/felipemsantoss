@@ -50,15 +50,6 @@ Atualmente estou estudando e desenvolvendo projetos utilizando:
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipemsantoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsantoss&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <!-- Footer Animado (Ajustado para não cortar "atenção") -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Obrigado+pela+atenção!" alt="Typing SVG Footer" />
