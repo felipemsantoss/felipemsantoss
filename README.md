@@ -100,11 +100,6 @@ Atuo como desenvolvedor de software na **Wave - Global Technology**, onde desenv
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=felipemsantoss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsantoss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipemsantoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
