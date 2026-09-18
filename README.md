@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ol%C3%A1!+%F0%9F%91%8B+Me+chamo+Felipe!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 
 <p>
-  🎓 Estudante de Engenharia de Software &nbsp;•&nbsp; 📍 Maringá, PR - Brasil
+  💻 Desenvolvedor de Software &nbsp;•&nbsp; 🎓 Graduando em Engenharia de Software &nbsp;•&nbsp; 📍 Maringá, PR - Brasil
 </p>
 
 <!-- Redes sociais -->
@@ -29,12 +29,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Estou cursando Engenharia de Software e me dedicando a aprender na prática: da lógica de programação (Portugol/VisuAlg) até projetos web com HTML, CSS e JavaScript. Gosto de organizar o que estudo em repositórios, testar coisas novas e evoluir um pouco a cada commit.
+Desenvolvedor de Software | PHP, Laravel, Next.js & TypeScript | Especialista em IA | Testes Automatizados (Cypress), Dashboards & Landing Pages | Graduando em Engenharia de Software
 
-- 🔭 Atualmente estudando **Engenharia de Software**
-- 🌱 Aprendendo mais sobre **desenvolvimento web** e **boas práticas de programação**
-- 💬 Me chame para falar sobre tecnologia, estudos ou projetos
-- ⚡ Nas horas vagas, dou uma passada na Twitch
+Atuo como desenvolvedor de software na **Wave - Global Technology**, onde desenvolvo e mantenho sistemas corporativos com PHP, Laravel, Adianti Framework e TypeScript — incluindo geração de documentos (PDF, boletos, QR Code e código de barras). Também trabalho com desenvolvimento full stack moderno, utilizando Next.js, React, TypeScript, PostgreSQL e HeidiSQL.
+
+- 🏝️ Um dos meus projetos em destaque é o **BEACHPRO ERP**, sistema de gestão de ligas e torneios de Beach Tennis desenvolvido em parceria com outro desenvolvedor, com geradores automáticos de chaveamento (mata-mata e fase de grupos) e autenticação via Auth.js
+- 🤖 Especialista em Inteligência Artificial
+- 🧪 Trabalho com testes automatizados (headless, Cypress), criação de dashboards e desenvolvimento de sites e landing pages
+- 🎓 Graduando em Engenharia de Software na **UNICV - Centro Universitário Cidade Verde**, em Maringá/PR
+- 🔭 Interesse em arquitetura de software, boas práticas de backend e evolução contínua como desenvolvedor full stack
 
 <br/>
 
@@ -43,19 +46,42 @@ Estou cursando Engenharia de Software e me dedicando a aprender na prática: da 
 <table align="center">
   <tr>
     <td valign="top" width="33%">
-      <p align="center"><b>Front-end</b></p>
+      <p align="center"><b>Back-end</b></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /><br/>
+        <img src="https://img.shields.io/badge/Adianti_Framework-2C3E50?style=for-the-badge" alt="Adianti Framework" />
       </p>
     </td>
     <td valign="top" width="33%">
-      <p align="center"><b>Back-end &amp; Dados</b></p>
+      <p align="center"><b>Front-end</b></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br/>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br/>
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /><br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><b>Banco de Dados</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br/>
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br/>
+        <img src="https://img.shields.io/badge/HeidiSQL-2C3E50?style=for-the-badge" alt="HeidiSQL" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><b>Testes &amp; Qualidade</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" /><br/>
+        <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge" alt="Auth.js" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><b>IA</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-8A2BE2?style=for-the-badge" alt="Inteligência Artificial" />
       </p>
     </td>
     <td valign="top" width="33%">
